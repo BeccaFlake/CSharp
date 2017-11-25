@@ -1,0 +1,9 @@
+c:\users\rebecca\documents\visual studio 2015\Projects\knittingCalculator\knittingCalculator\bin\Debug\knittingCalculator.exe.config
+C:\Users\Rebecca\Documents\Visual Studio 2015\Projects\knittingCalculator\knittingCalculator\bin\Debug\knittingCalculator.exe
+C:\Users\Rebecca\Documents\Visual Studio 2015\Projects\knittingCalculator\knittingCalculator\bin\Debug\knittingCalculator.pdb
+C:\Users\Rebecca\Documents\Visual Studio 2015\Projects\knittingCalculator\knittingCalculator\obj\Debug\knittingCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Rebecca\Documents\Visual Studio 2015\Projects\knittingCalculator\knittingCalculator\obj\Debug\knittingCalculator.knittingCalculator.resources
+C:\Users\Rebecca\Documents\Visual Studio 2015\Projects\knittingCalculator\knittingCalculator\obj\Debug\knittingCalculator.Properties.Resources.resources
+C:\Users\Rebecca\Documents\Visual Studio 2015\Projects\knittingCalculator\knittingCalculator\obj\Debug\knittingCalculator.csproj.GenerateResource.Cache
+C:\Users\Rebecca\Documents\Visual Studio 2015\Projects\knittingCalculator\knittingCalculator\obj\Debug\knittingCalculator.exe
+C:\Users\Rebecca\Documents\Visual Studio 2015\Projects\knittingCalculator\knittingCalculator\obj\Debug\knittingCalculator.pdb
