@@ -1,0 +1,9 @@
+c:\users\rebecca\documents\visual studio 2015\Projects\Project6\Project6\bin\Debug\Project6.exe.config
+C:\Users\Rebecca\documents\visual studio 2015\Projects\Project6\Project6\bin\Debug\Project6.exe
+C:\Users\Rebecca\documents\visual studio 2015\Projects\Project6\Project6\bin\Debug\Project6.pdb
+C:\Users\Rebecca\documents\visual studio 2015\Projects\Project6\Project6\obj\Debug\Project6.csprojResolveAssemblyReference.cache
+C:\Users\Rebecca\documents\visual studio 2015\Projects\Project6\Project6\obj\Debug\Project6.worldSeriesWinners.resources
+C:\Users\Rebecca\documents\visual studio 2015\Projects\Project6\Project6\obj\Debug\Project6.Properties.Resources.resources
+C:\Users\Rebecca\documents\visual studio 2015\Projects\Project6\Project6\obj\Debug\Project6.csproj.GenerateResource.Cache
+C:\Users\Rebecca\documents\visual studio 2015\Projects\Project6\Project6\obj\Debug\Project6.exe
+C:\Users\Rebecca\documents\visual studio 2015\Projects\Project6\Project6\obj\Debug\Project6.pdb
