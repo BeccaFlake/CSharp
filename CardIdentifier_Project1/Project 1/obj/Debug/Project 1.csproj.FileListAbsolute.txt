@@ -1,0 +1,9 @@
+c:\users\rebecca\documents\visual studio 2015\Projects\Project 1\Project 1\bin\Debug\Project 1.exe.config
+c:\users\rebecca\documents\visual studio 2015\Projects\Project 1\Project 1\bin\Debug\Project 1.exe
+c:\users\rebecca\documents\visual studio 2015\Projects\Project 1\Project 1\bin\Debug\Project 1.pdb
+c:\users\rebecca\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project 1.csprojResolveAssemblyReference.cache
+c:\users\rebecca\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project_1.Properties.Resources.resources
+c:\users\rebecca\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project 1.csproj.GenerateResource.Cache
+c:\users\rebecca\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project 1.exe
+c:\users\rebecca\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project 1.pdb
+C:\Users\Rebecca\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project_1.cardIdentifier.resources
